@@ -26,7 +26,7 @@ I am a fullstack developer with knowledge on PERN Stack (Postgress, Express, Rea
 
 ### :pushpin: Projects
 
-<h5 align="center" font-size="20px">K-Mora e-commerce <a href='http://68.183.106.112/'> </h5>
+<h5 align="center" font-size="20px"> <a href='http://68.183.106.112/'> K-Mora e-commerce </a></h5>
 
 <p>Project for a little colombian business called <a href='https://www.instagram.com/k.mora_accesorios/'>K-Mora-Accesorios</a>.  
 <br/>
