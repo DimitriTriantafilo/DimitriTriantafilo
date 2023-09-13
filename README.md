@@ -2,7 +2,7 @@
 
 # Hi, I'm Dimitri Triantafilo
 
-I am a fullstack developer with knowledge on PERN Stack (Postgress, Express, Reactive and Node) for development of web and mobile aplications. I love new challenges and addapting to different situations where i can achieve all my goals throght hard work and determination.
+I am a fullstack developer with knowledge on PERN Stack (Postgress, Express, Reactive and Node) for development of web and mobile applications. I love new challenges and addapting to different situations where i can achieve all my goals throght hard work and determination.
 
 ### :computer: Languages:
 
