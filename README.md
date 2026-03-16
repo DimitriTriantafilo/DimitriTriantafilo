@@ -1,45 +1,165 @@
-# FULLSTACK DEVELOPER
+# Hi, I'm Dimitri Triantafilo 👋
 
-# Hi, I'm Dimitri Triantafilo
+**Frontend Developer | AI Platform Engineering**
 
-I am a fullstack developer with knowledge on PERN Stack (Postgress, Express, Reactive and Node) for development of web and mobile applications. I love new challenges and addapting to different situations where i can achieve all my goals throght hard work and determination.
+📍 Buenos Aires, Argentina  
+📧 dimitritriantafilo@gmail.com  
 
-### :computer: Languages:
+[LinkedIn](https://www.linkedin.com/in/dimitri-triantafilo/)
 
-:heavy_check_mark: JavaScript
+---
 
-:heavy_check_mark: HTML5 | CSS | SASS | Less | Bootstrap
+## About Me
 
-:heavy_check_mark: Data structure and algorithms
+With +4 years of experience building **distributed systems, AI platforms, and scalable frontend architectures**.
 
-:heavy_check_mark: React | Redux 
+I currently contribute to **InnovaCore**, an enterprise ecosystem designed for **AI governance, model management, and developer tooling**.
 
-:heavy_check_mark: Nodejs | Express
+My background is a bit unusual:  
+I’m both a **Software Engineer and a Lawyer (UBA)**. This combination gives me a strong analytical framework that helps bridge **business strategy, governance, and software architecture**.
 
-:heavy_check_mark: SQL | PostgreSQL | Sequelize
+I enjoy building:
 
-:heavy_check_mark: Git | GitHub
+- AI developer platforms
+- rule engines
+- distributed frontends
+- automation tooling
+- developer experience infrastructure
 
-:heavy_check_mark: AJAX
+I also actively work with **AI-augmented development workflows** to accelerate engineering delivery.
 
-<hr />
+---
 
-### :pushpin: Projects
+# Tech Stack
 
-<h5 align="center" font-size="20px"> <a href='http://68.183.106.112/'> K-Mora e-commerce </a></h5>
+### AI Platform Engineering
+- Model Context Protocol (MCP)
+- OpenRouter (Managed / BYOK)
+- AI rule engines
+- YAML-based configuration systems
+- AI-augmented workflows (Cursor)
 
-<p>Project for a little colombian business called <a href='https://www.instagram.com/k.mora_accesorios/'>K-Mora-Accesorios</a>.  
-<br/>
-an E-commerce developed with Scrum methodology, working for both computer devices throught web and cellphones, (responsive)
-This e-commerce has an admin panel, where you can add, update and delete products, get detailed information about sales, statistics, have control over sell orders add publicity banners that will be displayed in the main page for customers to see. Users of this page can acces as guest or with their own account where they would be able to select their preferences and products they are interested in before actually buying it, the whole buying process is contempted, on checkout the customer will access to a paymand getawey, as its a colombian company it work with colombians most used payment getaway - U-Pay. after purchase customer will reciebe an authomatic e-mail detailing their order.</p>
+### Frontend Architecture
+- React 18
+- Angular (v9 → v15+)
+- Astro 5
+- TypeScript
+- Micro-frontends (Module Federation)
+- Webpack 5
+- TailwindCSS
+- shadcn/ui
 
-<p align="center"><img src="https://i.ibb.co/yyksgWs/kmora-home.png" width="400" /></p>
-<p align="center"><img src="https://i.ibb.co/j8KDyJM/kmora-catalogue.png" alt="kmora-catalogue" width="400" /></p>
-<p align="center"><img src="https://i.ibb.co/fQfxS7M/kmora-cart.png" width="400" /></p>
-<p align="center"><img src="https://i.ibb.co/4WgK9yF/kmora-admin-products.png" width="400" /></p>
+### Backend & Data
+- Supabase
+- PostgreSQL
+- Row Level Security (RLS)
+- Edge Functions
+- SQL schema design
+- Migration-driven development
+- Node.js
 
-<hr />
+### Cloud & DevOps
+- AWS (ECS Fargate, Lambda, Cognito)
+- Terraform / Terragrunt
+- Docker
+- OAuth2 / OIDC
+- Keycloak
 
-<h5 align="center">Games</h5>
+---
 
-<p>Project developed in SoyHenry bootcamp as an academic exercise.  In this app you can search, sort, add  your favourites games to your fav foulder, find out specific data about any of the 500.000 games listed in Rawg- video game database - API. </p>
+# Professional Experience
+
+## Accusys Technology
+
+### AI Platform Engineer  
+**2026 – Present**
+
+Contributor to **InnovaCore**, an enterprise AI governance and developer platform.
+
+**Key contributions**
+
+- Built platform modules for **model catalogs and MCP management** using React and Supabase
+- Participated in the evolution of the **PostgreSQL schema (100+ migrations)**
+- Implemented **Row-Level Security policies** to ensure multi-tenant data isolation
+- Developed **25+ Supabase Edge Functions** automating workspace lifecycle and OpenRouter key management
+- Implemented a **dynamic rule engine** generating YAML configuration for IDE extensions
+- Contributed to a **fork of an editor extension** integrating AWS Cognito authentication and remote configuration updates
+- Delivered **90+ commits in Q1 2026**, spanning security hardening, platform features and critical bug fixes
+
+---
+
+### Senior Front-End Developer  
+**2022 – 2025**
+
+Led the architecture of large-scale enterprise frontends.
+
+**Highlights**
+
+- Designed a **Micro-frontend architecture** (1 shell + 10 remotes) using Angular and Module Federation
+- Led a **team of 3 developers**
+- Built **@mf-common-lib**, a shared component library with 25+ reusable components
+- Led the **migration from Angular 9 → 15**
+- Implemented **OAuth2/OIDC authentication flows** with Keycloak across the ecosystem
+
+---
+
+### Front-End Developer (Semi-Senior)  
+**2021 – 2022**
+
+Worked on digital banking interfaces with **Angular Material and Sass**, focusing on performance and stability in regulated environments.
+
+---
+
+# Independent Technical Consultancy
+
+### MA Arquitectura & Pizza Nautica (2025)
+
+Technical consulting for business digitalization.
+Deployed at: https://estudiomaarquitectura.com
+Implemented:
+
+- **Astro 5**
+- **Angular 19 SSR**
+- optimized media delivery with **Cloudinary**
+- SEO-focused frontend architecture
+
+---
+
+# Education
+
+**Law Degree (Abogado)**  
+Universidad de Buenos Aires — 2024
+
+**Technical Degree in Programming**  
+Universidad Tecnológica Nacional (UTN) — *In progress*
+
+**Full Stack Developer Program**  
+Henry Bootcamp — 2021  
+(700+ hours)
+
+---
+
+# Languages
+
+Spanish — Native  
+English — C2 (EFSET Certified)
+
+Academic experience in **New Zealand**
+
+---
+
+# Leadership & Achievements
+
+- Captain of the **First XV Rugby Team** at Waitakere College (New Zealand)
+- Rugby coach at **La Salle** (M8 → M19)
+- Passionate about **team leadership, discipline and mentorship**
+
+---
+
+# Interests
+
+Outside of engineering I enjoy:
+
+- rugby
+- distributed systems
+- AI developer tooling
